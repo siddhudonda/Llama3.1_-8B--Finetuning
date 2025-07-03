@@ -7,7 +7,7 @@ This repository contains code and experiments for fine-tuning Meta's **LLaMA 3 8
 - **Notebook Name**: `Llama3_1_(8B)_GRPO.ipynb`
 - **Goal**: Implement and experiment with reinforcement learning-based fine-tuning (GRPO) on the LLaMA 3 8B model.
 - **Frameworks Used**: PyTorch, Transformers (HuggingFace), Accelerate, PEFT, BitsAndBytes, TRL
-
+                     
                                                               
 ## 🚀 Features
 
